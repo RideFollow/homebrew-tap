@@ -3,8 +3,8 @@ require "language/node"
 class RidefollowCli < Formula
   desc "Follow a live RideFollow bike ride from your terminal"
   homepage "https://ridefollow.live"
-  url "https://registry.npmjs.org/ridefollow-cli/-/ridefollow-cli-1.0.2.tgz"
-  sha256 "d0040a18ba584160a675ba23d8344a546f5ebe2bbd0b22dad8e07bf9369de20a"
+  url "https://registry.npmjs.org/ridefollow-cli/-/ridefollow-cli-1.0.3.tgz"
+  sha256 "b772f17c4dcace56da16d0aee5662d0feb30381999c3ff9753a8a7851121ee87"
   license "MIT"
 
   depends_on "node"
